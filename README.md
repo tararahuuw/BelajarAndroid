@@ -1,4 +1,4 @@
-# BelajarAndroid
+# LifeCycleActivity
 	// onCreate(savedInstanceState: Bundle?): Metode ini dipanggil saat Activity baru pertama kali dibuat.
 	// Inisialisasi sumber daya yang diperlukan biasanya dilakukan di sini.
 	override fun onCreate(savedInstanceState: Bundle?) {
